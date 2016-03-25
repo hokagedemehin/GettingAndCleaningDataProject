@@ -1,21 +1,5 @@
 ##CODE BOOK
 
-###tidy data description
-
-In order the get the required tidy data i performed the following steps
-
-*loaded the various training and test file into memory
-
-*set the variable names of the loaded X_train and X_test to its respective feature names
-
-*subset the X_train and X_test to select only variables that are mean and std
-
-*replaced the values of y_train and y_test to its respective activity labels
-
-*merged the tidy data together to get the required data
-
-*ordered the tidy data by its volunteers
-
 ###variable description
 
 below is the description of the variables selected in the tidy data
